@@ -1,6 +1,6 @@
 # Toutatis
 Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more </br>
-For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
+
 ## 💡 Prerequisite
 [Python 3](https://www.python.org/downloads/release/python-370/)
 
@@ -48,5 +48,5 @@ Profile Picture        : https://scontent-X-X.cdninstagram.com/
 
 ## Thank you to :
 
-- [EyupErgin](https://github.com/eyupergin)
-- [yazeed44](https://github.com/yazeed44)
+- [Kishan](https://instagram.com/1_kishann)
+- [Anutosh](https://instagram.com/anutoshxx._)
